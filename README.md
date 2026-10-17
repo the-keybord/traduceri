@@ -38,3 +38,16 @@ Transcrieri și traduceri pentru scanări de documente și cărți. / Транс
 | [page_21.md](page_21.md) | [page_21_ru.md](page_21_ru.md) | Complianță și obediență, 3.6. Dimensiunea inovatoare (pp. 94–95) |
 | [page_22.md](page_22.md) | [page_22_ru.md](page_22_ru.md) | Deciziile inovatoare (p. 96), Bibliografie (p. 97) |
 
+### Capitolul 6. Situațiile de criză educațională în clasa de elevi
+
+| Pagina originală (RO) | Перевод на русский (RU) | Conținut / Содержание |
+|---|---|---|
+| [page_23.md](page_23.md) | [page_23_ru.md](page_23_ru.md) | 6.1. Caracterizarea situațiilor de criză educațională, definire și periculozitate / Определение и опасность педагогического кризиса (p. 191) |
+| [page_24.md](page_24.md) | [page_24_ru.md](page_24_ru.md) | Caracteristici și atitudini favorizante, tipologia crizelor (V. Ghinea), crize în clasă / Характеристики кризиса, типология (В. Гиня), проявления в классе (pp. 192–193) |
+| [page_25.md](page_25.md) | [page_25_ru.md](page_25_ru.md) | Crize la nivel instituțional (R. Decker), 6.2. Gestionarea situațiilor de criză / Кризисы на уровне школы (Р. Декер), 6.2. Управление кризисными ситуациями (pp. 194–195) |
+| [page_26.md](page_26.md) | [page_26_ru.md](page_26_ru.md) | 6.2.1. Identificarea, 6.2.2. Etiologia, 6.2.3. Decizia, 6.2.4. Programul de intervenție, 6.2.5. Aplicarea măsurilor / Этапы: идентификация, этиология, решение, программа, реализация (pp. 196–197) |
+| [page_27.md](page_27.md) | [page_27_ru.md](page_27_ru.md) | 6.2.6. Controlul, 6.2.7. Evaluarea (p. 198), diagrame de gestiune și dinamica crizei (Corsini/Ullich) (p. 199) / Контроль, оценка (с. 198), схемы управления и динамики кризиса (Корсини/Уллих) (с. 199) |
+| [page_28.md](page_28.md) | [page_28_ru.md](page_28_ru.md) | Concluzii asupra dinamicii crizei, Bibliografie A–P / Выводы о динамике кризиса, Библиография А–П (pp. 200–201) |
+| [page_29.md](page_29.md) | [page_29_ru.md](page_29_ru.md) | Bibliografie P–Z / Библиография П–З (pp. 202–203) |
+
+
